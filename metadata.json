@@ -1,0 +1,6 @@
+{
+  "name": "VocalTimer - Voice Checkpoint Timer",
+  "description": "Smart audio timer with loud voice announcements when started, checkpoints at elapsed intervals, and times-up alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
